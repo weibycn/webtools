@@ -10,6 +10,7 @@
 # 	urllib2打开的url为https://42.81.28.122/20/ynetLogo.png
 # 
 # 预留了多线程测试函数，可以实现并行检测。如对amazon云的IP段进行检测。
+# amazon云的IP段在官网可以下载到
 
 
 import urllib2
